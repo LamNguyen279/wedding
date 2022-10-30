@@ -112,7 +112,7 @@
 	}
 	.countdown #timer div#days, .countdown #timer div#hours, .countdown #timer div#minutes, .countdown #timer div#seconds{
 		position: inherit;
-		margin: 12px 0px;
+		margin: 12px 2px;
 	}
 	.lbox-details::before{
 		background: rgba(0,0,0,0.9);
